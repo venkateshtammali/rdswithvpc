@@ -1,0 +1,1 @@
+variable "RDS_PASSWORD" { }
